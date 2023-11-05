@@ -1,10 +1,11 @@
+// format specifier is described in thi code 
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
 int main()
 {
 int x;
-char ch;
+char ch,temp;
 printf("enter an integer ->");
 scanf("%d",&x);
 printf("enter an charecter ->");
